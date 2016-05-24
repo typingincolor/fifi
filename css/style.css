@@ -35,10 +35,6 @@ body {
     #logo {
         margin: auto;
     }
-
-    #social-icon {
-        margin: auto;
-    }
 }
 
 /* Extra Small Devices, Phones */
@@ -46,17 +42,11 @@ body {
     #logo {
         margin: auto;
     }
-    #social-icon {
-        margin: auto;
-    }
 }
 
 /* Small Devices, Tablets */
 @media only screen and (min-width: 768px) {
     #logo {
-        margin: auto;
-    }
-    #social-icon {
         margin: auto;
     }
 }
