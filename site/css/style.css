@@ -35,6 +35,10 @@ body {
     #logo {
         margin: auto;
     }
+
+    p {
+        font-size: 18px;
+    }
 }
 
 /* Extra Small Devices, Phones */
@@ -42,12 +46,20 @@ body {
     #logo {
         margin: auto;
     }
+
+    p {
+        font-size: 18px;
+    }
 }
 
 /* Small Devices, Tablets */
 @media only screen and (min-width: 768px) {
     #logo {
         margin: auto;
+    }
+
+    p {
+        font-size: 18px;
     }
 }
 
